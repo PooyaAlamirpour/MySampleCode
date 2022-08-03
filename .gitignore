@@ -1,0 +1,12 @@
+.idea/
+.vs/
+ApiPresentationLayer/bin/
+ApiPresentationLayer/obj/
+ApplicationLayer/bin/
+ApplicationLayer/obj/
+DomainLayer/bin/
+DomainLayer/obj/
+InfrastructureLayer/bin/
+InfrastructureLayer/obj/
+TaaghcheTest/bin/
+TaaghcheTest/obj/
